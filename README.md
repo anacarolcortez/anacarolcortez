@@ -5,7 +5,7 @@
 ### Hello, hello! 👋
 
 - 🔭 I'm a college student, future developer
-- 🌱 I’m currently learning JavaScript to become a full-stack dev
+- 🌱 I’m currently learning JavaScript to become a web developer =D
 - 📫 How to reach me: carolina.cortez@aluno.ifsp.edu.br
 - 😄 More about me: https://www.linkedin.com/in/carol-cortez-447047192/
 
