@@ -4,7 +4,7 @@
 
 ### Hello, world! 👋
 
-- 🌱  I'm a college student.
+- 🌱  I'm a college student, future mobile developer!
 - 📫 How to reach me: carolina.cortez@aluno.ifsp.edu.br
 - 😄 More about me: https://www.linkedin.com/in/carol-cortez-447047192/
 
