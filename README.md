@@ -5,6 +5,6 @@
 ### Hello, world! 👋
 
 - 🌱  I'm a college student, future mobile developer!
-- 📫 How to reach me: carolina.cortez@aluno.ifsp.edu.br
+- 📫 How to reach me: anaccortez85@gmail.com
 - 😄 More about me: https://www.linkedin.com/in/carol-cortez-447047192/
 
