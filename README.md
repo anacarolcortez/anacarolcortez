@@ -1,7 +1,3 @@
-![Imgur](https://i.imgur.com/XGgwzqY.jpg)
-
-
-
 ### Hello, world! 👋
 
 - 🌱  I'm a college student, future mobile developer!
