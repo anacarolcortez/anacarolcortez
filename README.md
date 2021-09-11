@@ -1,6 +1,6 @@
 ### Hello, world! 👋
 
-- 🌱  I'm a college student, future mobile developer!
+- 🌱  Mobile developer student
 - 📫 How to reach me: anaccortez85@gmail.com
 - 😄 More about me: https://www.linkedin.com/in/ana-carol-c-447047192/
 
