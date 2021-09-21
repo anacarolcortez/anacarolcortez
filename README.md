@@ -1,3 +1,5 @@
+![cover](https://i.imgur.com/pLq6X8i.png)
+
 ### Hello, world! 👋
 
 - 🌱  Mobile developer student
