@@ -8,5 +8,5 @@
 
 This github repository is my notebook. I publish projects I had developed to practice programming skills I've done during courses and workshops.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolcortez&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolcortez&hide=html,css,handlebars,robotframework)
 
