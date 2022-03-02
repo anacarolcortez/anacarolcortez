@@ -7,7 +7,7 @@
 - :mailbox: How to reach me: anaccortez85@gmail.com
 - :grin: More about me: https://www.linkedin.com/in/ana-carol-c-447047192/
 
-This github repository is like my notebook. I only use it to practice programming skills.
+I use this github account to practice programming skills.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
