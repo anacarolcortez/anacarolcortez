@@ -3,7 +3,7 @@
 ### Hello, world! 👋
 
 - :beetle: Test Automation Developer (Dev QA), I also try to go deeper into the techs the systems I test are made of, such as mobile, web and microservices. I am always studying new stacks and different ways to achieve results
-- :notebook: I love data science as a hobby and I've been studying all I can about it on my free time
+- :notebook: I love data science and most recently I've been working with test automation for big data projects. I also started an MBA at USP of Data Science and Analytics.
 - :mailbox: How to reach me: anaccortez85@gmail.com
 - :grin: More about me: https://www.linkedin.com/in/ana-carol-c-447047192/
 
