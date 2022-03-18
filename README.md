@@ -5,9 +5,8 @@
 - :beetle: Test Automation Developer (Dev QA), I also try to go deeper into the techs the systems I test are made of, such as mobile, web and microservices. I am always studying new stacks and different ways to achieve results
 - :notebook: I love data science and most recently I've been working with test automation for big data projects. I also started a MBA at USP of Data Science and Analytics.
 - :mailbox: How to reach me: anaccortez85@gmail.com
-- :grin: More about me: https://www.linkedin.com/in/ana-carol-c-447047192/
 
-I use this github account to practice programming skills.
+I use this github account only to practice programming skills.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
