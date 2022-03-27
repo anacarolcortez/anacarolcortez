@@ -3,7 +3,7 @@
 ### Hello, world! 👋
 
 - :beetle: Test Automation Developer (Dev QA), I also try to go deeper into the techs the systems I test are made of, such as mobile, web and microservices. I am always studying new stacks and different ways to achieve results
-- :notebook: I love data science and most recently I've been working with test automation for big data projects. I also started a MBA at USP of Data Science and Analytics.
+- :notebook: I've been working with test automation for big data projects and also started a graduation course in Data Science.
 - :mailbox: How to reach me: anaccortez85@gmail.com
 
 I use this github account only to practice programming skills.
