@@ -2,11 +2,9 @@
 
 ### Hello, world! 👋
 
-- :beetle: Test Automation Developer (Dev QA), I also try to go deeper into the techs the systems I test are made of, such as mobile, web and microservices. I am always studying new stacks and different ways to achieve results
-- :notebook: I've been working with test automation for big data projects and also started a graduation course in Data Science.
+- :beetle: As a Test Automation Analyst (QA) I am always studying new stacks and different ways to achieve better results. In 2022 I was able to start a graduation I've been longing to do: Data Science. I've always believed in the disruptive power of technology and I am looking forward to make a difference in the world with my skills, helping to promote and develop social equality projects.
+- :notebook: I use this github account only to practice programming skills.
 - :mailbox: How to reach me: anaccortez85@gmail.com
-
-I use this github account only to practice programming skills.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
