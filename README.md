@@ -18,8 +18,7 @@
 </p>
 
 ### About me
-<p> My first graduation was Journalism and I had worked as a reporter, covering economics and finance, for over 10 years. That took me to (almost) graduate in economics as well (I was an undergraduate student in Economics for 3 years at Unifesp).</p>
-<p>But something was missing. I've always believed in the power of information as a motor for real transformation in society and I felt I needed to dig deeper into that. That's how I got in touch with the Data Science world and decided to go for a turning point in my career.</p>
-<p>I've started to study Data Science topics, like Python, SQL and Statistics (I had a little bit os stats in Economics, by the way). Two years ago I had my first opportunity to make a drastic move towards my goal. I was offered a job in the technology industry. Even though that job was not what I had planned for my career change, I figured it would help me improve programming skills, so I took that chance.</p>
-<p>Now I think it's time to gather all that knowledge and move on with plan A. In 2022 I've started an undergraduate course in Data Science and I've been preparing to take my fisrt opportunity as a Jr Data Scientist.</p>
-<p>I can't wait to make a difference in the world with my skills, helping to promote and develop social equality projects.</p>
+My first graduation was Journalism and I had worked as a reporter, covering economics and finance, for over 10 years. That took me to (almost) graduate in economics as well (I was an undergraduate student in Economics for 3 years at Unifesp). 
+But something was missing. I've always believed in the power of information as a motor for real transformation in society and I felt I needed to dig deeper into that. That's how I got in touch with the Data Science world and decided to go for a turning point in my career. 
+I've started to study Data Science topics, like Python, Databases and Statistics (I had a little bit of stats in Economics, by the way). Two years ago I had my first opportunity to make a drastic move towards my goal. I was offered a job in the technology industry, as a QA, automating tests. Even though that job was not what I had planned for my career change, I figured it would help me improve programming skills, so I took that chance.
+Now it's time to gather all that baggage and move on. I want to be part of more challenging software development projects and, one day, to work on projects of machine learning and IA development.
