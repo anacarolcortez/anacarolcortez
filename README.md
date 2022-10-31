@@ -1,4 +1,4 @@
-![cover](https://i.imgur.com/pLq6X8i.png)
+![CoffeeAndCode](https://i.imgur.com/tDsRQzJ.jpeg)
 
 ### Hello, world! 👋
 - :notebook: I use this github account only to practice programming skills.
