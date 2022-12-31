@@ -18,6 +18,6 @@
 </p>
 
 ### About me
-Former journalist, I started a new career in the Tech Industry two years ago. Along the way I had joined projects of companies such as Santander Bank, Ab-Inbev and Redecard, working within agile methodologies, and improved programming skills in stacks such as Java, Python, Javascript, Selenium WebDriver, Rest-Assured, Postgres, SQL, MongoDB, AWS Cloud Services, Docker, FastAPI and Spring Framework. 
-My career goal is to become a back-end development specialist.
+I started a new career in the Tech Industry two years ago and I had joined projects of companies such as Santander Bank, Ab-Inbev and Redecard, within agile methodologies, improving programming skills in Java, Python, Javascript, JUnit, Rest-Assured, Postgres, SQL, MongoDB, AWS Cloud Services, Docker and Spring Framework. 
+My career goal is to become a specialist in back-end for web development.
 I've always believed in the power of information as a motor for real transformation in society and I am now looking foward to promote changes through technnology around the world.
