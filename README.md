@@ -6,12 +6,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
