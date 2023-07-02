@@ -1,5 +1,3 @@
-![CoffeeAndCode](https://i.imgur.com/tDsRQzJ.jpeg)
-
 ### Hello, world! 👋
 - :notebook: I use this github account only to practice programming skills.
 - :mailbox: How to reach me: anaccortez85@gmail.com
