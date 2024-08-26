@@ -1,7 +1,7 @@
 ### Hello, world! 👋
 I joined the Tech Industry in 2021 and participated in projects of companies such as Santander Bank, Ab-Inbev, Redecard and CPB, within agile methodologies, improving programming skills in Java, JUnit, Rest-Assured, Postgres, SQL, MongoDB, AWS Cloud Services, Docker and Spring Framework. 
 My career goal is to become a specialist in backend for web development.
-I've always believed in the power of information as a motor for real transformation in society and I am now looking foward to promote changes through technnology around the world.
+I believe in the power of information as a motor for real transformation in society and I am always up to to help promoting changes through technnology around the world.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
