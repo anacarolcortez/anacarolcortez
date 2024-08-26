@@ -1,6 +1,4 @@
 ### Hello, world! 👋
-- :notebook: I use this github account only to practice programming skills.
-- :mailbox: How to reach me: anaccortez85@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
