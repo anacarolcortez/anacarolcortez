@@ -19,3 +19,8 @@ I believe in the power of information as a motor for real transformation in soci
 
 > [!NOTE]
 > I only use this github for studying and I've been working A LOT, so... my repositories might miss updates and some more action... please, don't judge us lol!!!!
+>
+
+I've been studying for Java OCP and here is the link to my blog where I share my notes, if you're interested too:
+
+https://dev.to/anaccortez
